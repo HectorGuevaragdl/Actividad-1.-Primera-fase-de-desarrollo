@@ -1,0 +1,10 @@
+src/
+├── components/
+│   ├── CustomerList.jsx    # Lista clientes
+│   ├── CustomerForm.jsx    # Formulario crear/editar
+│   └── CustomerActions.jsx # Botones eliminar/editar
+├── services/
+│   └── api.js             # Llamadas a la API (Axios)
+├── pages/
+│   └── CustomersPage.jsx  # Página principal
+└── App.js
